@@ -18,4 +18,4 @@ docker-compose up -d
 
 Run Postman and Try like the below image
 
-![](https://imgur.com/a/eip5fru)
+![](/assets/images/example.png)
